@@ -1,0 +1,31 @@
+{
+  "name": "javascript-algorithms",
+  "version": "1.0.0",
+  "description": "A collection of JavaScript algorithms implementations and explanations on them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasfcosta/javascript-algorithms.git"
+  },
+  "keywords": [
+    "algorithms",
+    "data",
+    "structures",
+    "javascript"
+  ],
+  "author": "Lucas Fernandes da Costa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucasfcosta/javascript-algorithms/issues"
+  },
+  "homepage": "https://github.com/lucasfcosta/javascript-algorithms#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^2.0.0",
+    "gulp-exclude-gitignore": "^1.0.0",
+    "gulp-mocha": "^2.2.0"
+  }
+}
