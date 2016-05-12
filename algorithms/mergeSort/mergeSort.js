@@ -4,7 +4,7 @@ const merge = require('../merge/merge');
 /**
  * ### .mergeSort(arr)
  *
- * Sorts an array.
+ * Sorts an array using mergeSort.
  *
  * @name merge
  * @param {Array} arr
