@@ -1,3 +1,4 @@
+'use strict';
 require('chai').Should();
 const merge = require('../algorithms/merge/merge');
 
