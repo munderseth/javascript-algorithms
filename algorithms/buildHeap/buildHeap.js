@@ -1,3 +1,5 @@
+'use strict';
+
 function buildHeap(input) {
     const arrayLength = input.length;
 
